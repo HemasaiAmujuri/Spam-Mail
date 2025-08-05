@@ -5,3 +5,7 @@
 4.Now apply TfidfVectorizer it helps to find the frequency of the words in a document.It also helps to remove unnecessary values.
 5.Now apply Logistic Regression algorithm .
 6.Its time to find accuracy of our model ,the training and testing accuracy of our model is 96 percent.
+
+
+Functionality:
+user copy his/her mail it predicts spam or ham mail based on keywords
